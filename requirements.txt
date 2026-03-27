@@ -1,0 +1,10 @@
+streamlit>=1.30
+pandas>=2.0
+numpy>=1.24
+plotly>=5.18
+statsforecast>=1.6
+hierarchicalforecast>=0.4
+mlforecast>=0.10
+utilsforecast>=0.1
+lightgbm>=4.0
+scipy>=1.11
